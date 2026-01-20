@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🕵🏻‍♂️ About Me:
 I am currently a Software Engineering student. Rather than just consuming technology, <br>I focus on understanding how it works and creating my own solutions. I'm still at the <br>beginning of my journey, but I continue to learn by building new things every day.
 
 # 📚 What am I working on?
