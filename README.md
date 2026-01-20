@@ -3,7 +3,9 @@ I am currently a Software Engineering student. Rather than just consuming techno
 
 # 📚 What am I working on?
 **Software Architecture:** I am reading about clean code principles and sustainable software structures, and I am trying to build my projects on these foundations.
+
 **Artificial Intelligence Fundamentals:** I have entered the world of Generative AI; I am trying to understand the RAG (Retrieval-Augmented Generation) architecture both theoretically and practically.
+
 **Image Processing:** I am developing basic level projects using Python and OpenCV. My current focus is working on a traffic violation detection system prototype.
 
 ## 🌐 Socials:
