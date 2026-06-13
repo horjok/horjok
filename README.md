@@ -4,9 +4,6 @@ I am currently a Software Engineering student. Rather than just consuming techno
 # 📚 What am I working on?
 **Software Architecture:** I am reading about clean code principles and sustainable software structures, and I am trying to build my projects on these foundations.
 
-**Artificial Intelligence Fundamentals:** I have entered the world of Generative AI; I am trying to understand the RAG (Retrieval-Augmented Generation) architecture both theoretically and practically.
-
-**Image Processing:** I am developing basic level projects using Python and OpenCV. My current focus is working on a traffic violation detection system prototype.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/horjok) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ardakuba) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ardakuba) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ardakuba2004@gmail.com) 
